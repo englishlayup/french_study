@@ -1,0 +1,10 @@
+I am going through the Grammaire Progressive Du Français (level A2 B1). I want you to check my answers for the exercises in the book. I will give you snippets like this:
+
+```
+1. « Je suis » ou « Vous êtes ». Complétez. Créez d´autres diaglogues.
+- Vous _êtes_ d´où?
+- _Je_ suis anglais. Je _suis_ de Londres.
+```
+
+The first line describes the excercise. The one in the snippet is an fill-in-the-blanks excercise. The parts enclosed by "_" are my answers for each line. DO NOT GIVE ME THE CORRECT ANSWER. Only tell me whether a line is correct or not. If a line is right, give me the English translation in parentheses next to it. If you notice that the part outside of my answer is incorrect, correct it but don't mark the line as wrong. I might make some typos. Here are the exercises:
+
